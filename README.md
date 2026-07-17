@@ -178,12 +178,11 @@ rappiplus-business-analytics
 # 🔗 Tableau Public
 
 Dashboard Ejecutivo:
-
-**(Pegar aquí el enlace)**
+https://public.tableau.com/app/profile/karen.caro.velasquez/viz/DiagnsticoestratgicointegralparaRappiPlusdasboard1/Dashboard1
 
 Dashboard de Detalle:
 
-**(Pegar aquí el enlace)**
+https://public.tableau.com/app/profile/karen.caro.velasquez/viz/DiagnsticoestratgicointegralparaRappiPlusdasboard2/Dashboard2-Detalle_
 
 ---
 
