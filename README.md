@@ -194,55 +194,76 @@ El objetivo fue determinar si existían diferencias estadísticamente significat
 
 ---
 
-# 🛠 Tecnologías utilizadas
+# 🛠️ Tecnologías Utilizadas
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- SciPy
-- SQL
-- Tableau Public
-- Git
-- GitHub
+| Herramienta | Uso |
+|------------|------------------------------------------------|
+| Python | Limpieza, transformación y análisis de datos |
+| Pandas | Manipulación de datos |
+| NumPy | Operaciones numéricas |
+| Matplotlib | Visualizaciones exploratorias |
+| SQL | Consultas y análisis de datos |
+| Tableau | Dashboard ejecutivo e interactivo |
+| Jupyter Notebook | Desarrollo del análisis |
+| Git & GitHub | Control de versiones y publicación del proyecto |
 
 ---
 
 # 📁 Estructura del proyecto
 
+
 ```
 rappiplus-business-analytics
 │
-├── data
-├── notebook
-├── dashboard
-├── images
+├── data/
+│   ├── orders_clean.csv
+│   ├── marketing_clean.csv
+│   └── catalog_clean.csv
+│
+├── notebook/
+│   └── S12_Estudiante_Proyecto_Final.ipynb
+│
+├── dashboard/
+│   └── Diagnóstico estratégico integral para RappiPlus.twbx
+│
+├── images/
+│   ├── Dashboard1.png
+│   └── Dashboard2.png
+│
 └── README.md
 ```
+# 🚀 Cómo ejecutar este proyecto
+
+1. Clonar el repositorio.
+
+```
+git clone https://github.com/karencaro-data/rappiplus-business-analytics.git
+```
+
+2. Instalar las dependencias necesarias.
+
+3. Abrir el notebook en Jupyter Notebook o Google Colab.
+
+4. Explorar el dashboard interactivo en Tableau Public.
 
 ---
 
-# 🔗 Tableau Public
 
-Dashboard Ejecutivo:
-https://public.tableau.com/app/profile/karen.caro.velasquez/viz/DiagnsticoestratgicointegralparaRappiPlusdasboard1/Dashboard1
-
-Dashboard de Detalle:
-
-https://public.tableau.com/app/profile/karen.caro.velasquez/viz/DiagnsticoestratgicointegralparaRappiPlusdasboard2/Dashboard2-Detalle_
 
 ---
 
-# 👩‍💻 Autor
+## 👩‍💻 Autor
 
 **Karen Caro Velásquez**
 
-Data Analyst | SQL | Python | Tableau | Business Intelligence
+Data Analyst Junior
 
-LinkedIn:
+📧 milthonteamo12@gmail.com
 
-https://www.linkedin.com/in/karen-caro-0942253b3
+💼 LinkedIn
 
-GitHub:
+https://www.linkedin.com/in/karen-caro-0942253b3/
+
+🐙 GitHub
 
 https://github.com/karencaro-data
