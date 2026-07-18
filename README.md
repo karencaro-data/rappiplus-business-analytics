@@ -21,6 +21,18 @@ El análisis incluye limpieza de datos, construcción de indicadores de negocio 
 
 ---
 
+# 🌐 Dashboard Interactivo
+
+Puedes explorar el dashboard completo en Tableau Public:
+
+### Dashboard Ejecutivo
+👉 https://public.tableau.com/views/DiagnsticoestratgicointegralparaRappiPlusdasboard1/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+### Dashboard de Análisis Detallado
+👉 https://public.tableau.com/views/DiagnsticoestratgicointegralparaRappiPlusdasboard2/Dashboard2-Detalle_?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+---
+
 # 🎯 Objetivo del negocio
 
 Desarrollar un análisis integral que permita:
