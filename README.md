@@ -33,6 +33,28 @@ Puedes explorar el dashboard completo en Tableau Public:
 
 ---
 
+# 📈 Resultados Clave
+
+Durante el análisis se obtuvieron los siguientes indicadores de negocio:
+
+| KPI | Valor |
+|------|-------:|
+| 💰 Revenue Total | **44,259,659** |
+| 📈 Profit Total | **7,551,224** |
+| 📣 Marketing Spend | **2,694,664** |
+| 🛒 Ticket Promedio | **2,074.80** |
+| 📦 Productos promedio por orden | **7.06** |
+
+### Hallazgos principales
+
+- ✅ La categoría **Electrónica** concentra la mayor parte de los ingresos.
+- ✅ **Laptop-Gaming-16GB** fue el producto con mayor rentabilidad y volumen de ventas.
+- ✅ El análisis de cohortes permitió identificar oportunidades para mejorar la retención de clientes.
+- ✅ El análisis del embudo (Funnel) ayudó a detectar oportunidades de optimización en el proceso de compra.
+- ✅ El experimento A/B proporcionó evidencia estadística para apoyar decisiones sobre la experiencia del usuario.
+
+---
+
 # 🎯 Objetivo del negocio
 
 Desarrollar un análisis integral que permita:
