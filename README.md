@@ -7,6 +7,19 @@ Este proyecto presenta un diagnóstico estratégico integral para **RappiPlus**,
 El análisis incluye limpieza de datos, construcción de indicadores de negocio (KPIs), análisis de ventas, evaluación del gasto en marketing, análisis de cohortes, funnel de conversión, experimento A/B y desarrollo de dashboards interactivos en Tableau.
 
 ---
+---
+
+# 📷 Dashboard Ejecutivo
+
+![Dashboard Ejecutivo](images/Dashboard%201.png)
+
+---
+
+# 📷 Dashboard de Análisis Detallado
+
+![Dashboard Detalle](images/Dashboard%202%20-%20Detalle.%20(1).png)
+
+---
 
 # 🎯 Objetivo del negocio
 
